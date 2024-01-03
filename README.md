@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul im a enginnering student currently pursuing a Physics major degree from IIT Bombay
+- 👋 Hi, I’m Rahul im an enginnering student currently pursuing a Physics major degree from IIT Bombay
 - 👀 I’m interested in science, ethics, mythology, sculpting
 - 🌱 I’m currently learning basic coding in python and matlab
 - 💞️ I’m looking to collaborate on ...
