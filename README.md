@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul im an enginnering student currently pursuing a Physics major degree from IIT Bombay
-- 👀 I’m interested in science, ethics, mythology, sculpting
+- 👀 I’m interested in science, engineering, ethics, mythology, sculpting
 - 🌱 I’m currently learning basic coding in python and matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me __ rahullande211@gmail.com
